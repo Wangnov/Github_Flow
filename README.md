@@ -47,7 +47,7 @@ graph TD;
 2. 创建新分支（如 feature/your-feature）
 3. 开发并规范提交（见下方提交规范）
 4. Push 分支到远程仓库
-5. 在 GitHub 上发起 Pull Request
+5. 在 GitHub 上发起 Pull Request (关联issue，如有)
 6. 参与代码评审与讨论
 7. 通过 Review 后合并到主分支
 8. 删除已合并分支
