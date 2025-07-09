@@ -17,4 +17,5 @@ classifiers = [ # PyPI 分类标签
     "Intended Audience :: Education",
     "Topic :: Software Development :: Version Control",
 ]
+
 urls = { Homepage = "https://github.com/wangnov/github-flow" }
