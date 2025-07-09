@@ -1,0 +1,20 @@
+# 一些常见的Python-generated目录和文件
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# 本地虚拟环境目录，包含依赖包，建议不纳入版本控制
+.venv
+
+# .env 文件，包含敏感信息，如API密钥等
+.env
+
+# macos 系统文件
+.DS_Store
+
+# uv 生成的锁文件，包含依赖包的版本信息，在开源的情况下建议不纳入版本控制
+uv.lock
+.python-version

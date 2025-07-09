@@ -1,0 +1,20 @@
+[project]
+name = "github-flow" # 项目名称
+version = "0.1.0" # 项目版本
+description = "Git/GitHub 规范化教学示例项目"
+readme = "README.md" # 项目说明文档
+requires-python = ">=3.8" # Python 版本要求，建议教学用主流稳定版本
+license = "MIT" # 开源许可证类型
+authors = [
+    { name = "wangnov", email = "wangnov@github.com" }, # 作者信息
+]
+dependencies = ['requests>=2.32.3'] # 项目依赖包列表
+keywords = ["git", "github", "example"] # 关键词，便于检索
+classifiers = [ # PyPI 分类标签
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Education",
+    "Topic :: Software Development :: Version Control",
+]
+urls = { Homepage = "https://github.com/wangnov/github-flow" }
