@@ -11,7 +11,7 @@
 ## 环境准备
 
 - 推荐 Python 版本：3.8 及以上
-- 推荐使用 [uv](https://github.com/astral-sh/uv) 管理 Python 版本
+- 推荐使用 [uv-custom](https://github.com/wangnov/uv-custom) 安装uv，管理 Python 版本
 - 建议使用 [VS Code](https://code.visualstudio.com/) 或 [Cursor](https://www.cursor.so/) 作为开发环境
 
 ## 安装依赖
