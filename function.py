@@ -31,4 +31,8 @@ def fetch_github_status():
 
 # TODO: 一个有语法错误的函数，需要直接删除整个函数，并删除main中对该函数的调用，commit类型: fix
 def lint_error():
+    """
+    一个有语法错误的函数，需要直接删除整个函数，并删除main中对该函数的调用
+    """
+    abc
     print('我是语法错误！')
